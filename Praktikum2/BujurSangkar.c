@@ -1,6 +1,6 @@
 /*Nama File     : BujurSangkar.c*/
 /*Deskripsi     : Menghitung Luas Bujursangkar */
-/*Pembuat       : Derva Anargya Ghaly_24060121140149 */
+/*Pembuat       : Derva Anargya Ghaly - 24060121140149 */
 /*Tgl Pembuatan : Senin, 07 - 03 - 2022 20.30 WIB */
 
 #include <stdio.h> /*Header file*/
