@@ -13,6 +13,7 @@ int main(){ /*Program Utama*/
     int Luas; /*Luas Bujursangkar*/
 
     /*Algoritma*/
+    
     printf("====== Menghitung Luas Bujursangkar ======\n");
     printf("\nMasukkan Sisi (s) ="); /*Input*/
     scanf("%d", &s);
